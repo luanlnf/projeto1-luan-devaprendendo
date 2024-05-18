@@ -1,0 +1,4 @@
+git add arquivo.txt
+echo " luan ferreira" > arquivo.txt
+git commit -m "adicionando arquivo.txt"
+git push
